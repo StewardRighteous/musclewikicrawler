@@ -1,0 +1,1736 @@
+[
+  {
+    "exerciseName": "Plate Bicep Curl",
+    "targetMuscles": [
+      "biceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-bicep-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-bicep-curl-side.mp4"
+    ],
+    "exerciseInstructions": [],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Curl To Overhead Press",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-curl-to-overhead-press-front_kQDPle2.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-curl-to-overhead-press-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with feet shoulder-width apart and the plate in front of the torso, palms facing forward.",
+      "2Curl the plate up to the front of the shoulder while keeping the elbows close to the body.",
+      "3Rotate the palms to face forward and press the plate overhead, locking out the arms.",
+      "4Lower the plate back to the starting position, keeping control of it, and repeat for desired reps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Curl To Overhead Press To Tricep Extension",
+    "targetMuscles": [
+      "biceps",
+      "front-shoulders",
+      "shoulders",
+      "triceps",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-curl-to-overhead-press-to-tricep-extension-front_LMFCnKf.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-curl-to-overhead-press-to-tricep-extension-side_ax0yvwM.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with feet shoulder-width apart and the plate in front of the torso, palms facing forward.",
+      "2Curl the plate up to the front of the shoulder while keeping the elbows close to the body.",
+      "3Rotate the palms to face forward and press the plate overhead, locking out the arms.",
+      "4Lower the plate back behind the head to the starting position of a tricep extension.",
+      "5Push the plate back up overhead, then lower it back to the starting position and repeat for desired reps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Squat Hold Curl",
+    "targetMuscles": [
+      "quads",
+      "biceps",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-squat-hold-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-squat-hold-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lower into a squat position, keeping the plate at chest height.",
+      "2Slowly curl the plate towards your shoulders, keeping your elbows close to your body.",
+      "3Hold for a moment at the top of the curl before lowering the plate back to chest height.",
+      "4Repeat the curls as you hold the squat position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Internally Rotated Rear Delt Fly",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-internally-rotated-rear-delt-fly-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-internally-rotated-rear-delt-fly-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1With plates in either hand, bend your knees with your feet slightly bowed out. Hinge forward with a flat back.",
+      "2Maintain an overhand grip and internally rotated shoulders.",
+      "3Raise your arms backward toward the ceiling while maintaining a light band in your elbows."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Weighted Chin Ups",
+    "targetMuscles": [
+      "forearms",
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-weighted-chin-ups-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-weighted-chin-ups-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Grab the bar shoulder width apart with a supinated grip (palms facing you). Use a dip belt and the let the weight hang between your legs.",
+      "2With your body hanging and arms fully extended, pull yourself up until your chin is past the bar.",
+      "3Slowly return to starting position. Repeat."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Pull",
+      "Grips": "Underhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Pinch Grip Row",
+    "targetMuscles": [
+      "forearms",
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-pinch-grip-row-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-pinch-grip-row-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Make sure to keep your elbow close to your body and your core engaged throughout the movement.",
+      "2Bend forward at your hips while maintaining a flat back.",
+      "3Pull the plate toward your upper abdomen.",
+      "4Lower the weight in a controlled manner and repeat."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Pinch Grip",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Rear Delt Fly",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-rear-delt-fly-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-rear-delt-fly-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Keep your back straight and bend forward slightly at the waist.",
+      "2With arms extended, raise the weights out to your sides until they are in line with your shoulders.",
+      "3Pause briefly and then lower the weights back to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Weighted Pull Ups",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-weighted-pull-ups-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-weighted-pull-ups-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Grasp the bar with an overhand grip, arms and shoulders fully extended. Weight hanging between your legs.",
+      "2Pull your body up until your chin is above the bar.",
+      "3Lower your body back to starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Good Morning Anterior",
+    "targetMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-good-morning-anterior-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-good-morning-anterior-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with feet hip-width apart, the plate held in front of you, and the knees slightly bent.",
+      "2Bend forward at the hips, keeping the back straight, until the torso is parallel to the floor.",
+      "3Push through the hips to return to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Deadlift",
+    "targetMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-deadlift-front_u46uJRs.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-deadlift-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with feet hip-width apart, the plate in front of the feet, and the knees slightly bent.",
+      "2Bend the hips and knees to grip the plate with palms facing the body.",
+      "3Keeping the back straight, stand up while lifting the plate off the ground.",
+      "4Return the plate back to the starting position by bending the hips and knees, keeping control of the plate."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Single Leg Pinch Grip Deadlift",
+    "targetMuscles": [
+      "forearms",
+      "hamstrings",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-single-leg-pinch-grip-deadlift-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-single-leg-pinch-grip-deadlift-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with your feet shoulder-width apart and facing forwards. Grip the sides of a weight plate with your palms facing down.",
+      "2Balance on one foot, as you raise the weight keep your arms and back straight, while you bring your  other foot back towards the ground",
+      "3Keep four raised leg straight and in alignment with your back as you lower the plate back down to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Pinch Grip",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Good Morning",
+    "targetMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-good-morning-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-good-morning-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with feet hip-width apart, the plate held behind the neck and the knees slightly bent.",
+      "2Bend forward at the hips, keeping the back straight, until the torso is parallel to the floor.",
+      "3Push through the hips to return to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Neutral"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Weighted Inverted Row",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-plate-weighted-inverted-row-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-plate-weighted-inverted-row-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lay underneath a fixed horizontal bar and grab the bar with a wide overhand grip. Place a plate on your chest.",
+      "2Pull your body straight up to the bar.",
+      "3Return to the starting position, your arms fully extended. Repeat."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Superman Hold",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-superman-hold-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-superman-hold-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold a plate in both hands.",
+      "2Pull your arms and legs off the ground while and hold that position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Hold",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Superman",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-superman-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-superman-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lay flat on the ground on your stomach with your arms extended overhead. Hold a plate with a neutral grip.",
+      "2Lift your legs and chest off the ground simultaneously and hold for a 1 count at the top.",
+      "3Relax your lower back and lower your legs and chest back to the floor."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Single Leg Deadlift",
+    "targetMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-single-leg-deadlift-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-single-leg-deadlift-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Engage your core and straighten your legs to lift the plate off the ground.",
+      "2Stand on one leg, keeping the other leg off the ground, while holding the plate in front of your body.",
+      "3Keep your back straight and maintain a neutral head position while looking straight ahead.",
+      "4Lower the plate back down to the ground while keeping your balance on one leg."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Staggered Deadlift",
+    "targetMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-staggered-deadlift-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-staggered-deadlift-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start by standing with your feet shoulder-width apart and holding a weight plate.",
+      "2Place one foot slightly behind the other, with the heel of your back foot elevated.",
+      "3From this starting position, bend at the hips and knees to lower the plate towards the ground, keeping your back straight and your core engaged.",
+      "4Once the plate is below your knees, drive through your heels to stand back up to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Pinch Grip Deadlift",
+    "targetMuscles": [
+      "forearms",
+      "hamstrings",
+      "glutes",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-pinch-grip-deadlift-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-pinch-grip-deadlift-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand facing the plate with your feet shoulder-width apart and the plate positioned between your feet.",
+      "2Bend down and grasp the plate from the top edges with both hands, making sure your thumbs and fingers are evenly spaced.",
+      "3Keep your back straight, chest up and core engaged, and stand up with the plate, keeping it close to your body.",
+      "4Lower the plate back down to the ground, keeping control and maintaining good posture."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Grips": "Pinch Grip"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Staggered Waiters Bow",
+    "targetMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-plate-staggered-waiters-bow-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-plate-staggered-waiters-bow-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Set up a bar at mid way up your quad. Place the working leg against the bar.",
+      "2Place one foot behind. You should only be on your toes on that back foot. Your front foot should be planted flat the entire time.",
+      "3Bend your back knee and push your hips back. Look for a stretch in your front hamstring.",
+      "4When you feel the stretch, push your hips forward again until you're back in a standing position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Waiters Bow",
+    "targetMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-plate-waiters-bow-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-plate-waiters-bow-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place a barbell at about midway up your thigh. Press your quads into the barbell. Hold a plate up to your chest.",
+      "2Push your hips back while leaving your knees mostly extended. Look for a stretch in your hamstrings.",
+      "3When you feel the stretch, push your hips forward until you're back in a standing position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Staggered Pinch Grip Deadlift",
+    "targetMuscles": [
+      "forearms",
+      "hamstrings",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-staggered-pinch-grip-deadlift-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-staggered-pinch-grip-deadlift-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start by standing with your feet shoulder-width apart and holding two plates with a pinch grip.",
+      "2Place one foot slightly behind the other, with the heel of your back foot elevated.",
+      "3From this starting position, bend at the hips and knees to lower the plates towards the ground, keeping your back straight and your core engaged."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Pull",
+      "Grips": "Pinch Grip",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Overhead Carry",
+    "targetMuscles": [
+      "abdominals",
+      "front-shoulders",
+      "traps",
+      "shoulders",
+      "traps-middle",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-overhead-carry-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-overhead-carry-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start by standing upright with your feet shoulder-width apart. Hold a single weight plate overhead with both hands, keeping your arms extended straight above your head.",
+      "2Begin walking forward, taking slow and steady steps while maintaining a straight line. Your focus should be on maintaining balance and control of the weight plate overhead.",
+      "3As you walk, continue to keep your arms extended and the weight plate overhead. Try to maintain good posture and avoid leaning forward or backward, as this could result in losing control of the weight plate.",
+      "4Continue walking for a set distance or for a certain amount of time, keeping your focus on proper form and technique. When finished, return to the starting position and repeat as desired."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Hold",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Situp",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-situp-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-situp-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start by lying on your back on a mat with your legs bent and feet flat on the ground.",
+      "2Hold a weight plate over your head with both hands, making sure to keep your arms straight.",
+      "3Engage your core and use your abdominal muscles to sit up, keeping the weight plate towards the ceiling."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Weighted Hand Plank",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-weighted-hand-plank-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-weighted-hand-plank-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start in a kneeling position with your hands planted on the ground.",
+      "2Place a weight plate on your back or have a friend do it for you.",
+      "3Pick your knees up off the ground. Hold in this position with a flat back."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Hold",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Pinch Grip Deadlift",
+    "targetMuscles": [
+      "forearms",
+      "hamstrings",
+      "glutes",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-pinch-grip-deadlift-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-pinch-grip-deadlift-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand facing the plate with your feet shoulder-width apart and the plate positioned between your feet.",
+      "2Bend down and grasp the plate from the top edges with both hands, making sure your thumbs and fingers are evenly spaced.",
+      "3Keep your back straight, chest up and core engaged, and stand up with the plate, keeping it close to your body.",
+      "4Lower the plate back down to the ground, keeping control and maintaining good posture."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Grips": "Pinch Grip"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Hollow Hold",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-weighted-hollow-hold-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-weighted-hollow-hold-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lay flat on the ground with your arms extended over head holding a weight plate.",
+      "2Pick your upper back and your legs off the ground. Your body should be in a banana shape."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Hold",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Weighted Plank Up Down",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-weighted-plank-up-down-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-weighted-plank-up-down-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start from a plank position. Place a plate on your back.",
+      "2Go to one elbow then the other. Try to avoid rocking back and forth."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Pinch Grip Farmer's Carry",
+    "targetMuscles": [
+      "forearms"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-pinch-grip-farmers-carry-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-pinch-grip-farmers-carry-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand tall holding two plates in each hand with a pinch grip.",
+      "2Walk for the desired distance or time."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Hold",
+      "Grips": "Pinch Grip",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Weighted Dead Hang",
+    "targetMuscles": [
+      "forearms"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-plate-weighted-dead-hang-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-plate-weighted-dead-hang-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Attach weight to yourself using a dip belt. Grip a pull-up bar with palms facing forward.",
+      "2Hang with arms fully extended.",
+      "3Hold for recommended amount of time, keeping your core engaged."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Hold",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Pinch Grip Side Bend",
+    "targetMuscles": [
+      "obliques",
+      "forearms"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-pinch-grip-side-bend-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-pinch-grip-side-bend-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand straight with the plate held at your side",
+      "2Keep your hips and shoulders facing forward, bend to one side slowly",
+      "3Return to the upright position.",
+      "4Switch hands and repeat"
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Pinch Grip",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Staggered Deadlift",
+    "targetMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-staggered-deadlift-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-staggered-deadlift-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start by standing with your feet shoulder-width apart and holding a weight plate.",
+      "2Place one foot slightly behind the other, with the heel of your back foot elevated.",
+      "3From this starting position, bend at the hips and knees to lower the plate towards the ground, keeping your back straight and your core engaged.",
+      "4Once the plate is below your knees, drive through your heels to stand back up to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Weighted Forearm Plank",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-weighted-forearm-plank-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-weighted-forearm-plank-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Get into a kneeling position with both forearms pressed into the ground.",
+      "2Place a weight plate on your back (or have a partner do it for you).",
+      "3Hold the plank for the allotted amount of time."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Hold",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Clean",
+    "targetMuscles": [
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-clean-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-clean-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with feet shoulder-width apart and the plate in front of the feet.",
+      "2Bend the knees and hips to pick up the plate, keeping the back straight and core engaged.",
+      "3Stand up while pulling the plate towards the chest.",
+      "4Keep shoulder level while keeping the elbows high and in front of the plate."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Lateral Lunge",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-lateral-lunge-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-lateral-lunge-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with feet hip-width apart and the plate held in front of the torso.",
+      "2Take a step to the side with one foot, bending the knee and lowering the hips into a lunge.",
+      "3Push through the front foot to return to the starting position.",
+      "4Repeat on the other side by stepping to the other side with the other foot."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Curtsy Lunge",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-curtsy-lunge-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-curtsy-lunge-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with feet shoulder-width apart and the plate in front of the torso.",
+      "2Step back and across the body with the right foot, bending both legs to lower into a lunge position.",
+      "3Push through the front foot to return to the starting position.",
+      "4Repeat on the other side by stepping back and across with the left foot.",
+      "5Continue alternating sides for desired reps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Clean And Press",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "glutes",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-clean-and-press-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-clean-and-press-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with feet shoulder-width apart and the plate in front of the feet.",
+      "2Bend the knees and hips to pick up the plate, keeping the back straight and core engaged.",
+      "3Stand up, lock the hips and legs, and press the plate overhead with straight arms.",
+      "4Lower the plate back to the starting position, keeping control of it, and repeat for desired reps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Forward Lunge",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-forward-lunge-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-forward-lunge-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with feet hip-width apart and the plate held in front of the torso.",
+      "2Take a step forward with one foot, bending the front knee to lower the hips into a lunge.",
+      "3Push through the front foot to return to the starting position.",
+      "4Repeat on the other side by stepping forward with the other foot."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Reverse Lunge Twist",
+    "targetMuscles": [
+      "quads",
+      "obliques",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-plate-reverse-lunge-twist-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-plate-reverse-lunge-twist-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Step back with your right foot into a lunge position, both knees bent at 90 degrees.",
+      "2Twist your torso to the right, keeping the plate close to your chest.",
+      "3Push through your front foot to return to the starting position and repeat on the other side."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Squat Hold Reach",
+    "targetMuscles": [
+      "quads",
+      "front-shoulders",
+      "shoulders",
+      "glutes",
+      "triceps",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-squat-hold-reach-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-squat-hold-reach-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold the plate with both hands at chest height.",
+      "2Keeping your core tight and your chest up, squat down as low as you can go while keeping your feet flat on the ground.",
+      "3Hold the squat position and reach the plate forward, keeping your arms straight and your back straight.",
+      "4Return the plate to your chest while you hold the squat position and repeat reaching the plate in front of you"
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Squat Reach",
+    "targetMuscles": [
+      "quads",
+      "front-shoulders",
+      "shoulders",
+      "glutes",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-squat-reach-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-squat-reach-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand holding a weight plate at chest height with both hands.",
+      "2Lower into a squat, extending the plate in front of you at chest height",
+      "3As you stand back up, pull the plate back into your chest."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Goblet Deficit Reverse Lunge",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-plate-goblet-deficit-reverse-lunge-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-plate-goblet-deficit-reverse-lunge-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand on a platform, Holding a plate to your chest, feet hip-width apart.",
+      "2Step back, lowering knee toward floor, keeping chest upright and core engaged.",
+      "3Push through front foot, return to start."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Thruster",
+    "targetMuscles": [
+      "quads",
+      "front-shoulders",
+      "shoulders",
+      "glutes",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-squat-thruster-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-squat-thruster-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start with the plate at chest height. Begin a squat.",
+      "2Make sure to hit parallel depth. On your way back up, use the momentum you generate with your legs to help push the plate into an overhead position.",
+      "3Let the plate return to chest height before initiating the next squat."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Alternating Deadstop Row",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-alternating-deadstop-row-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-alternating-deadstop-row-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with your feet shoulder width apart. Hold each plate to the side of you.",
+      "2Bend forward at the hips bringing the plates to the floor while you slightly bend your knees, keeping your back straight.",
+      "3One at a time, lift the plate up. Return the plate to the floor and do the other side."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Glute Bridge to Pullover",
+    "targetMuscles": [
+      "glutes",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-glute-bridge-pullover-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-glute-bridge-pullover-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lay flat on the ground with a plate on your chest.",
+      "2Push your hips up toward the ceiling and maintain that extended position.",
+      "3Extend your elbows mostly, break at the shoulder joint while maintaining hip extension and the slight bend in your elbows.",
+      "4Let the plate tap the floor (or get close) and then pull the plate back into the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Glute Bridge to Chest Press",
+    "targetMuscles": [
+      "chest",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-glute-bridge-chest-press-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-glute-bridge-chest-press-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lay flat on the ground with a plate on your chest.",
+      "2Push your hips up toward the ceiling and maintain that extended position.",
+      "3With your hips up, press the plate toward the ceiling."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Halo",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-halo-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-halo-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with feet shoulder-width apart and the plate held in front of your face with both hands, palms facing each other.",
+      "2Rotate the plate around the head, keeping the arms extended and moving the plate in a circular motion.",
+      "3Complete one full circle, then reverse the direction to complete another circle."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Front Raise",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-front-raise-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-front-raise-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with feet shoulder-width apart and the plate in front of the torso, palms facing the thighs.",
+      "2Keeping the elbows slightly bent, lift the plate up to the front of the body.",
+      "3Raise the plate up until the arms are fully extended, maintaining control of the plate.",
+      "4Lower the plate back to the starting position and repeat for desired reps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Overhead Press To Tricep Extension",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "triceps",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-overhead-press-to-tricep-extension-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-overhead-press-to-tricep-extension-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Brace your core and press the weight plate overhead until your arms are fully extended. Keep your shoulders down and back.",
+      "2While your arms are fully extended, lower the weight behind your head to perform the extension",
+      "3After completing the extension, lower the weight to your chest, and perform the overhead press. Repeat"
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Overhead Tricep Extension",
+    "targetMuscles": [
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-overhead-tricep-extension-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-overhead-tricep-extension-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand or sit with a weight plate in your hands, arms extended straight above your head",
+      "2Lower the weight plate behind your head by bending at the elbows.",
+      "3Keep your elbows close to your head and shoulders relaxed.",
+      "4Push the weight plate back up to starting position, extending your arms fully."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Car Driver",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-car-driver-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-car-driver-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Inhale and brace your abdominals",
+      "2Raise the arms vertically while keeping the elbows slightly bent",
+      "3Once the arms are parallel with the floor, rotate the plate clockwise and counterclockwise.",
+      "4Lower the plate back to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Hold",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Full Lateral Raise",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-full-lateral-raise-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-full-lateral-raise-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand tall holding two plates at your side.",
+      "2Lateral raise the plates to your side and continue until the plates are pointed at the ceiling.",
+      "3Let your shoulder joint naturally rotate. At the bottom you should have a neutral or overhand grip. By the time the plates are overhead, your palms should be facing forward."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Rotating",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Reach",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-standing-reach-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-standing-reach-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start in a standing position with a plate against your chest.",
+      "2Press the plate away from your body until your elbows are extended."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Weighted Diamond Push Ups",
+    "targetMuscles": [
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-weighted-diamond-push-ups-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-weighted-diamond-push-ups-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place a plate on your back. Position your index fingers and thumbs so they are touching, forming a diamond shape.",
+      "2Use a standard push up position",
+      "3Lower your chest towards your hands, keep your elbows close to your body",
+      "4Stop just before your chest touches the floor, then push back up to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Deficit Pushup",
+    "targetMuscles": [
+      "front-shoulders",
+      "chest",
+      "shoulders",
+      "triceps",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-deficit-pushup-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-deficit-pushup-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start in a pushup position with both hands on a plate. This will extend your range of motion.",
+      "2Break at the elbows and shoulders until your upper arm travels behind the body slightly.",
+      "3Then press back into the original position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Lateral Raise",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-lateral-raise-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-lateral-raise-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with feet shoulder-width apart and grip two plates in each hand at your sides.",
+      "2Keeping your arms straight, raise the plates out to your sides until they are in line with your shoulders.",
+      "3Lower the plates back to your sides with control. Repeat for desired number of reps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Weighted Knee Push Ups",
+    "targetMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-weighted-knee-push-ups-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-weighted-knee-push-ups-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Begin in a push-up position on your knees. Break at the elbow and shoulder joint.",
+      "2Lower your body, keeping elbows close.",
+      "3Push back up to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Weighted Dip",
+    "targetMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-plate-weighted-dip-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-plate-weighted-dip-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Use a dip belt to attach a plate to yourself. Grip bars with arms straight, shoulders above hands. Keep legs straight or bent.",
+      "2Lower slowly until elbows are at 90 degrees.",
+      "3Push back up to start position, extending arms fully."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Overhead Shrug",
+    "targetMuscles": [
+      "traps",
+      "traps-middle"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-overhead-shrug-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-overhead-shrug-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand tall with a weight plate overhead.",
+      "2Elevated and depress your scapula.",
+      "3Avoid leaning forward or backwards to keep pressure off of your lumbar spine."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Weighted Wall Sit",
+    "targetMuscles": [
+      "quads"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-weighted-wall-sit-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-weighted-wall-sit-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Press your back against a wall, feet shoulder-width apart, holding weights at your sides.",
+      "2Lower into a squat position, thighs parallel to the floor, knees above ankles.",
+      "3Hold the position, maintaining tension in your core and legs."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Hold",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Weighted Push Ups",
+    "targetMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-weighted-push-ups-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Plate-weighted-push-ups-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place your hands firmly on the ground, directly under shoulders. Place a plate on your back.",
+      "2Flatten your back so your entire body is straight and slowly lower your body",
+      "3Draw shoulder blades back and down, keeping elbows tucked close to your body",
+      "4Exhale as you push back to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Wood Chopper",
+    "targetMuscles": [
+      "obliques"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-woodchopper-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-woodchopper-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with a shoulder width stance. Begin with the plate near one of your quads.",
+      "2Rotate at your upper spine to engage the obliques.",
+      "3You can pivot your back foot to keep from generating too much torque at the knee."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Standing Twist",
+    "targetMuscles": [
+      "obliques"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-standing-twist-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-standing-twist-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with a plate extended away from your body. Elbows mostly extended.",
+      "2Rotate at the upper spine while keeping your lumbar spine in a neutral position.",
+      "3Do not let the plate go behind your body."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Russian Twist",
+    "targetMuscles": [
+      "abdominals",
+      "obliques"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-russian-twist-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-russian-twist-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start by sitting on the floor with your knees bent and feet flat on the ground",
+      "2Engage your core muscles by pulling your belly button toward your spine.",
+      "3Slowly twist your upper body to the right, keeping your feet flat on the ground and your back straight.",
+      "4Hold for a second and then twist to the left, holding for another second."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Squat",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-squat-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-squat-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with feet shoulder-width apart and hold a weight plate in front of your chest with both hands.",
+      "2Keep your back straight, lower your body as if you were sitting back into a chair.",
+      "3Go as low as you can while keeping your heels flat on the ground, then push through your heels to return to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Reverse Lunge",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-reverse-lunge-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-reverse-lunge-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold the plate at chest height close to your body",
+      "2Take a big step backwards with your left leg, lowering your body until your left thigh is parallel to the ground and your right knee is bent at a 90-degree angle.",
+      "3Push through your right heel to return to standing, bringing your left leg back to starting position.",
+      "4Repeat the movement on the other side, stepping backwards with your right leg and lowering your body until your right thigh is parallel to the ground and your left knee is bent at a 90-degree angle."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Russian Twist",
+    "targetMuscles": [
+      "abdominals",
+      "obliques"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-russian-twist-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-russian-twist-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start by sitting on the floor with your knees bent and feet flat on the ground",
+      "2Engage your core muscles by pulling your belly button toward your spine.",
+      "3Slowly twist your upper body to the right, keeping your feet flat on the ground and your back straight.",
+      "4Hold for a second and then twist to the left, holding for another second."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Overhead Squat",
+    "targetMuscles": [
+      "quads",
+      "front-shoulders",
+      "shoulders",
+      "glutes",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-overhead-squat-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-overhead-squat-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold a weight plate at arm's length overhead, with your arms fully extended. The plate should be directly above your head and your elbows should be locked.",
+      "2Begin to bend your knees, lowering your body as far as you can while keeping the weight plate overhead. Make sure to keep your back straight and your chest lifted.",
+      "3Once your thighs are parallel to the ground or as low as you can go, pause for a moment.",
+      "4Push through your heels to return to a standing position, keeping the weight plate overhead the entire time."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Overhead Walking Lunge",
+    "targetMuscles": [
+      "quads",
+      "front-shoulders",
+      "shoulders",
+      "glutes",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-overhead-walking-lunge-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-overhead-walking-lunge-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand tall with a plate overhead.",
+      "2Step with one foot forward bringing your back knee to the floor. Gently tap your knee then drive through your front leg.",
+      "3Go back to a standing position and then step forward with the opposing legs."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Deficit Lunge",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-deficit-lunge-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-deficit-lunge-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand on a plate with both feet.",
+      "2Step back with one foot to the floor and let your back knee get close to or tap the floor.",
+      "3Push through your front leg until both feet are back on the plate."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  },
+  {
+    "exerciseName": "Plate Squat Hold",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-squat-hold-front_LrtgCLV.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-plate-squat-hold-side_mxmbCnO.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start by standing with your feet shoulder-width apart, with a weight plate held in both hands at chest height.",
+      "2Lower your body by bending your knees and hips, keeping your back straight and your weight in your heels.",
+      "3Go down until your thighs are parallel to the floor, then pause for a moment.",
+      "4Hold the squat position for the desired amount of time, keeping the weight plate steady and your core engaged."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Hold",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Plate"
+  }
+]

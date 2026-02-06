@@ -1,0 +1,2057 @@
+[
+  {
+    "exerciseName": "Machine Seated Cable Row",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-seated-cable-row-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-seated-cable-row-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit with your back straight on the machine and grip the handles.",
+      "2Pull the handles back using your arms. Your legs and torso should be at a 90° angle. Push out your chest.",
+      "3Pull the handles towards your body until your hands are beside your abdomen."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Overhand, Underhand, Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Neutral Pulldown",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-neutral-pulldown-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-neutral-pulldown-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Use the V Bar attachment.",
+      "2Hold the attachment as you sit on the machine and put your legs under the leg pads.",
+      "3Pull the bar to your clavicle, then raise back up until your arm are extended."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Underhand Pulldown",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-underhand-pulldown-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-underhand-pulldown-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Use the Straight Bar attachment. Hold with an underhand grip.",
+      "2Hold the attachment as you sit on the machine and put your legs under the leg pads.",
+      "3Pull the bar to your clavicle, then raise back up until your arm are extended."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Underhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Narrow Pulldown",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-narrow-pulldown-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-narrow-pulldown-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Use the Straight Bar attachment.",
+      "2Hold the attachment as you sit on the machine and put your legs under the leg pads.",
+      "3Pull the bar to your clavicle, then raise back up until your arm are extended."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Assisted Pull Up",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-assisted-pull-up-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-assisted-pull-up-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust weight for assistance. Stand on platform, grip handles above shoulder-width. Knees on pad if available.",
+      "2Slowly pull up until chin is above the bar. Keep elbows close, core engaged.",
+      "3Lower back with control. Pause at bottom. Repeat for reps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Assisted Neutral Chin Up",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-assisted-neutral-chin-up-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-assisted-neutral-chin-up-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust weight for assistance. Stand on platform, grip handles above shoulder-width. Knees on pad if available.",
+      "2Slowly pull up until chin is above the bar. Keep elbows close, core engaged.",
+      "3Lower back with control. Pause at bottom. Repeat for reps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Underhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Assisted Narrow Pull Up",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-assisted-narrow-pull-up-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-assisted-narrow-pull-up-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust weight for assistance. Stand on platform, grip handles above shoulder-width. Knees on pad if available.",
+      "2Slowly pull up until chin is above the bar. Keep elbows close, core engaged.",
+      "3Lower back with control. Pause at bottom. Repeat for reps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Assisted Chin Up",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-assisted-chin-up-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-assisted-chin-up-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust weight for assistance. Stand on platform, grip handles above shoulder-width. Knees on pad if available.",
+      "2Slowly pull up until chin is above the bar. Keep elbows close, core engaged.",
+      "3Lower back with control. Pause at bottom. Repeat for reps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Underhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Underhand Row",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-underhand-row-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-underhand-row-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit on the machine, feet flat, and grab the handles with palms facing up, keeping your back straight.",
+      "2Pull handles towards your lower abdomen, squeezing your shoulder blades together. Keep elbows close to your body.",
+      "3Slowly return to the starting position, fully extending your arms without locking elbows. Repeat for desired reps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Underhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Plate Loaded Pulldown",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-pulldown-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-pulldown-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Grip the handles with the palms facing down.",
+      "2Sit on the machine and press your knees into the knee pad.",
+      "3Pull the handles until your upper arm is even with your torso, or just behind your torso.",
+      "4Extend until your elbows are fully extended before initiating the next rep."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Standing Plate Loaded Preacher Curl",
+    "targetMuscles": [
+      "biceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-standing-plate-loaded-preacher-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-standing-plate-loaded-preacher-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Rest the back of your arms on the preacher bench.",
+      "2Grab the handles. Curl the weight up until your elbows are fully flexed.",
+      "3Lower until the point just before the weight rests at the bottom."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Underhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Seated Plate Loaded Preacher Curl",
+    "targetMuscles": [
+      "biceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-seated-plate-loaded-preacher-curl-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-seated-plate-loaded-preacher-curl-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit at the bench and rest the back of your arms on the preacher bench.",
+      "2Grab the handles. Curl the weight up until your elbows are fully flexed.",
+      "3Lower until the point just before the weight rests at the bottom."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Underhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Plate Loaded Low Row",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-low-row-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-low-row-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Press your chest into the chest pad and grab the horizontal handles with an overhand grip.",
+      "2Pull the handles toward you, make sure your elbows stay flared out."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine 45 Degree Back Extension",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-back-extension-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-back-extensions-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Position your thighs on the padding and hook your feet on the platform supports.",
+      "2Keeping your back straight, slowly bend at your waist until your legs and back are at a 45° angle.",
+      "3Slowly raise your body to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Bicep Curl",
+    "targetMuscles": [
+      "biceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-bicep-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-bicep-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust the seat to fit your height and place your elbows on the elbow pad.",
+      "2Grab the handles and flex your elbows."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Underhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Back Extension",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-back-extension-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-back-extension-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit on the machine and place your upper back on the rolling pad.",
+      "2Extend your hips and lower back. Make sure not to hyperextend your spine."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Roll Outs",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-roll-outs-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-roll-outs-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold the Ab Roller with both hands and kneel on the floor with your feet up and crossed.",
+      "2Slowly roll the ab roller straight forward, stretching your body into a straight position.",
+      "3After a pause at the stretched position, start pulling yourself back to the starting position. This should be a slow and controlled movement."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Plate Loaded Crunch",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-crunch-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-crunch-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place your feet under the foot pads and grab the handles with your hands.",
+      "2Flex your spine and bring your upper and lower body together."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Rower Knee Tuck",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-rower-knee-tuck-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-rower-knee-tuck-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place your feet on the rower seat and get in to a hand plank position.",
+      "2Pull your knees to your chest and flex your abs."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Rower Pike",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-rower-pike-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-rower-pike-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place your feet on the rower seat and get in to a plank position.",
+      "2Pull your hips straight up toward the ceiling.",
+      "3Lower your hips until you're back in a plank position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Reverse Hyperextension",
+    "targetMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-reverse-hyperextension-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-reverse-hyperextension-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lay on the pad and grab the handles.",
+      "2Slip your legs into the belt loop.",
+      "3Push your legs back until they are horizontal with the ground.",
+      "4Lower back to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Crunch",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-crunch-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-crunch-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place your feet under the foot pads and grab the handles with your hands.",
+      "2Flex your spine and bring your upper and lower body together."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Standing Calf Raises",
+    "targetMuscles": [
+      "calves"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-standing-calf-raises-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-standing-calf-raises-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust the machine in accordance with your height and place your shoulders underneath the padded lever.",
+      "2The balls of your feet should be supporting your weight on the calve block, your heels extending off of it.",
+      "3Extend your heels upwards while keeping your knees stationary, and pause at the contracted position.",
+      "4Slowly return to the starting position. Repeat."
+    ],
+    "detailedInstruction": [
+      "How To Use The Standing Calve Raise Machine",
+      "Setup",
+      "Adjust the height of the shoulder pads to where you have to do a miniature squat to get the weight in position to begin the set. This will help you get a longer range of motion.",
+      "Place the balls of your feet on the edge of the platform and perform your mini squat to start the set.",
+      "Performing The Standing Calve Raise",
+      "Let the weight fully flex your ankles and look for what feels like a stretch in your calves at the bottom of each rep. Spend an extra second in this stretched position. There is some indication that stretching a muscle while under a load is great for muscle growth.",
+      "Then initiate the concentric. Extend your ankles to the degree that your range of motion allows for. Imagine you have a string on both heels being pulled directly up toward the ceiling. When you have gone high enough, you should feel your calves contract hard. Spend an extra second in this contracted position before beginning the eccentric."
+    ],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Donkey Calf Raise",
+    "targetMuscles": [
+      "calves"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-donkey-calf-raise-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-donkey-calf-raise-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust the machine to fit your height. Place your elbows on the pad, grab the handles. The vertical pad should be resting on your lower back.",
+      "2Raise your heels toward the ceiling."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Horizontal Leg Press Calf Raise",
+    "targetMuscles": [
+      "calves"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-horizontal-leg-press-calf-raise-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-horizontal-leg-press-calf-raise-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust the machine in accordance with your height.",
+      "2The balls of your feet should be supporting your weight on the bottom of the platform, your heels extending off of it.",
+      "3Extend your heels upwards while keeping your knees stationary, and pause at the contracted position.",
+      "4Slowly return to the starting position. Repeat."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine 45 Degree Calf Raise",
+    "targetMuscles": [
+      "calves"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-45-degree-calf-raise-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-45-degree-calf-raise-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust the machine in accordance with your height and sit.",
+      "2The balls of your feet should be supporting your weight on the calve block, your heels extended off of it.",
+      "3Extend your heels upwards while keeping your knees stationary, and pause at the contracted position.",
+      "4Slowly return to the starting position. Repeat."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Plate Loaded Calf Raise",
+    "targetMuscles": [
+      "calves"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-calf-raise-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-calf-raise-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit on the machine and press your back into the back pad.",
+      "2Place the balls of your feet on the edge of the foot plate.",
+      "3Let your heels lower until you feel a stretch in your calves, then press back up until you feel a contraction."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Hip Thrust",
+    "targetMuscles": [
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-hip-thrust-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-hip-thrust-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust the machine for your height, sit with your back against the pad, knees bent, feet flat on the platform.",
+      "2Brace your core, push through your heels, and extend your hips upwards, lifting the weight while squeezing your glutes.",
+      "3Lower the weight slowly back to the starting position, ensuring controlled movement; repeat for desired reps and sets."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Hack Squat",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-hack-squat-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-hack-squat-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Position yourself in the hack squat machine with your back against the pad and shoulders under the shoulder pads.",
+      "2Place feet shoulder-width apart on the platform. Keep your back straight, and slowly lower into a squat position.",
+      "3Press through your heels to return to the starting position, keeping your core engaged. Repeat for desired reps and sets."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Leg Press",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-leg-press-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-leg-press-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place your legs on the platform with your feet at shoulder width.",
+      "2Release the weight and extend your legs fully, without locking your knees.",
+      "3Lower the weight until your legs are at a 90° angle (but DO NOT allow your butt and lower back to rise off of the pad. This will put your lower back in a rounded position, which is very dangerous.)",
+      "4Raise the weight back to starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Horizontal Sissy Leg Press",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-horizontal-sissy-leg-press-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-horizontal-sissy-leg-press-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place your feet at the bottom the platform at shoulder width. Lift your heels up.",
+      "2Press against the platform and extend your legs fully, without locking your knees.",
+      "3Lower the weight until your legs are at a 90° angle (but DO NOT allow your butt and lower back to rise off of the pad. This will put your lower back in a rounded position, which is very dangerous.)",
+      "4Raise the weight back to starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Hip And Glute Kickback",
+    "targetMuscles": [
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-hip-and-glute-kickback-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-hip-and-glute-kickback-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand on the platform and sideways on the machine.",
+      "2Place the pad at just above hip height. Place the working leg over the pad.",
+      "3Extend the working leg backwards and flex your glute at the end of each rep."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Hip Abduction",
+    "targetMuscles": [
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-hip-abduction-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-hip-abduction-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust machine settings to fit your height. Sit with back flat against pad, legs together.",
+      "2Slowly press legs apart against resistance. Pause at peak.",
+      "3Slowly return legs to starting position. Repeat for desired reps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Horizontal Leg Press",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-horizontal-leg-press-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-horizontal-leg-press-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place your legs on the platform with your feet at shoulder width.",
+      "2Release the weight and extend your legs fully, without locking your knees.",
+      "3Lower the weight until your legs are at a 90° angle (but DO NOT allow your butt and lower back to rise off of the pad. This will put your lower back in a rounded position, which is very dangerous.)",
+      "4Raise the weight back to starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Hip And Glute Abduction",
+    "targetMuscles": [
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-hip-and-glute-abduction-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-hip-and-glute-abduction-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand on the platform and set the pad just over the opposing hip of the working leg.",
+      "2Place the working leg over the pad.",
+      "3Press your leg outward. Aim to get the longest range of motion possible."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Glute Ham Raise",
+    "targetMuscles": [
+      "hamstrings"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-glute-ham-raise-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-glute-ham-raise-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Position yourself on a glute ham raise machine or find a suitable substitute like a stability ball or bench.",
+      "2Adjust the equipment to fit your body by setting the footplate at an appropriate height and making sure your feet are securely anchored.",
+      "3Begin the movement by slowly lowering your upper body towards the ground while keeping your torso and legs aligned.",
+      "4Once you reach the lowest point where your body is parallel to the ground or as far as you can comfortably go, pause briefly.",
+      "5Engage your glutes and hamstrings again as you push yourself back up to the starting position, using the strength of your posterior chain muscles."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Vertical Leg Press",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-vertical-leg-press-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-vertical-leg-press-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lay on the pad and place your feet on the foot plate.",
+      "2Lift the plate up and disengage the holding hook.",
+      "3Lower the weight. Stop before your lower back rounds off the pad.",
+      "4Press the weight back to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Seated Leg Curl",
+    "targetMuscles": [
+      "hamstrings"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-seated-leg-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-seated-leg-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit back in the seat. Use the two handles to push yourself back into the chair.",
+      "2Flex your ankles and point your toes upward.",
+      "3Flex your knee bringing the pad backward, extend your knee without allowing the weight to touch back down."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Seated Calf Raises",
+    "targetMuscles": [
+      "calves"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-seated-calf-raise-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-seated-calf-raise-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Get comfortable on the machine, then place your lower thighs beneath the padded lever. Place your toes and the balls of your feet onto the foot supports.",
+      "2Prevent the weight from slipping forward by gripping the handles, and release the safety bar. Lower the weight until your calves are extended.",
+      "3Push your heels up to lift the padded lever and hold the contracted position, then slowly lower back down to the starting position. Repeat."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Pendulum Squat",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-pendulum-squat-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-pendulum-squat-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Position yourself in the pendulum squat machine with your back against the pad and shoulders under the shoulder pads.",
+      "2Place feet shoulder-width apart on the platform. Keep your back straight, and slowly lower into a squat position.",
+      "3Press through your heels to return to the starting position, keeping your core engaged. Repeat for desired reps and sets."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Horizontal Leg Press Calf Jump",
+    "targetMuscles": [
+      "calves"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-horizontal-leg-press-calf-jump-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-horizontal-leg-press-calf-jump-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start with your feet shoulder-width apart and your knees slightly bent.",
+      "2Shift your weight onto the balls of your feet and raise stay flat footed. Using your calf muscles, mimic a jumping motion but don't leave the platform.",
+      "3Explode onto your toes and hold for a second."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Single Leg Leg Press",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-single-leg-leg-press-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-single-leg-leg-press-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1This particular leg press has two separate foot plates. There are holding pins on both sides. Engage the pin on one side.",
+      "2Lower the weight but stop before your lower back begins to round.",
+      "3Press back to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Glute Kickback",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-glute-kickback-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-glute-kickback-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Grab the handles, place one knee on the pad, and the foot of the working leg on the foot plate.",
+      "2Push your working leg back until you feel your glute contract, then return to the starting position without resting the weights."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Squat Press",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-squat-press-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-squat-press-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place your legs on the platform with your feet at shoulder width.",
+      "2Release the weight and extend your legs fully, without locking your knees.",
+      "3Lower the weight until your legs are at a 90° angle (but DO NOT allow your butt and lower back to rise off of the pad. This will put your lower back in a rounded position, which is very dangerous.)",
+      "4Raise the weight back to starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Plate Loaded Hip Thrust",
+    "targetMuscles": [
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-hip-thrust-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-hip-thrust-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust the machine for your height, sit with your back against the pad, knees bent, feet flat on the platform.",
+      "2Brace your core, push through your heels, and extend your hips upwards, lifting the weight while squeezing your glutes.",
+      "3Lower the weight slowly back to the starting position, ensuring controlled movement; repeat for desired reps and sets."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Horizontal Hack Squat",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-horizontal-hack-squat-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-horizontal-hack-squat-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Position yourself in the hack squat machine with your back against the pad and shoulders under the shoulder pads.",
+      "2Place feet shoulder-width apart on the platform.",
+      "3Press through your heels to the starting position, keeping your core engaged. Repeat for desired reps and sets."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Stretcher",
+    "targetMuscles": [
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-stretcher-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-stretcher-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place your foot on the leg pad for leverage and grab the attachment.",
+      "2Start with your arms extended and your head between your arms.",
+      "3Begin to pull. As you pull, lean backwards until the attachment touches your chest."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Chest Supported T Bar Row",
+    "targetMuscles": [
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-chest-supported-t-bar-row-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-chest-supported-t-bar-row-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lay on the chest pad and grab the handles. Lift the bar out of the holding hook.",
+      "2Pull the bar to your chest and then fully extend your elbows at the bottom of each rep."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Overhand, Underhand, Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Pullover",
+    "targetMuscles": [
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-pullover-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-pullover-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust the seating pad for your height.",
+      "2Place your elbows on the elbow pad. Pull the bar forward until it nearly touches your stomach."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Plate Loaded Row",
+    "targetMuscles": [
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-row-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-row-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit on the machine, feet flat, and grab the handles.",
+      "2Pull handles towards your lower abdomen, squeezing your shoulder blades together. Keep elbows close to your body.",
+      "3Slowly return to the starting position, fully extending your arms without locking elbows. Repeat for desired reps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Underhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Reverse Fly",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-reverse-fly-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-reverse-fly-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit on machine and press your chest into the pad.",
+      "2Grab the handles with an overhand grip. Keep your elbows mostly extended.",
+      "3Bring your arms backwards and squeeze your scapula together."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Overhand Row",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-overhand-row-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-overhand-row-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit on the machine, feet flat, and grab the handles with palms facing down, keeping your back straight.",
+      "2Pull handles towards your lower abdomen, squeezing your shoulder blades together. Keep elbows close to your body.",
+      "3Slowly return to the starting position, fully extending your arms without locking elbows. Repeat for desired reps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Plate Loaded Seal Row",
+    "targetMuscles": [
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-seal-row-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-seal-row-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lay on the chest after adjusting the height off the bar holding hooks to match your arm length.",
+      "2Remove the bar from the hooks, then initiate the set.",
+      "3Pull the bar straight back, then lower to the start position. Fully extend your elbows at the bottom of each rep.",
+      "4Lay on the chest after adjusting the height off the bar holding hooks to match your arm length.",
+      "5Remove the bar from the hooks, then initiate the set.",
+      "6Pull the bar straight back, then lower to the start position. Fully extend your elbows at the bottom of each rep."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Overhand, Underhand, Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Plate Loaded T Bar Row",
+    "targetMuscles": [
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-t-bar-row-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-t-bar-row-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hinge forward while keeping your back flat.",
+      "2Grab the handles and pull the weight toward your chest.",
+      "3Make sure to fully extend your elbows at the bottom of each rep. Also make sure to not use momentum."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Overhand, Underhand, Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Rear Deltoid Row",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-rear-deltoid-row-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-rear-deltoid-row-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place your chest against the pad and grab the handles with an overhand grip.",
+      "2Pull your elbows straight back and keep your elbows flared throughout the rep."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Gluteator",
+    "targetMuscles": [
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-gluteator-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-gluteator-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit on the seat upright with your knees placed on the pads and your feet on the foot pads.",
+      "2Push your legs outwards and backwards and flex your glutes."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Seated Leg Curl",
+    "targetMuscles": [
+      "hamstrings"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-seated-leg-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-seated-leg-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit on the machine. Adjust the back pad to where the leg pad is just above your knees.",
+      "2Adjust the leg pad that goes on your lower leg until it's on your achilles.",
+      "3Use the two handles to push your self back in the chair. Curl your legs as far as possible, and then extend your knees. (Do not hyperextend)"
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Hamstring Curl",
+    "targetMuscles": [
+      "hamstrings"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-hamstring-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-hamstring-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lay down on the machine, placing your legs beneath the padded lever. Position your legs so that the padded lever is below your calve muscles.",
+      "2Support yourself by grabbing the side handles of the machine, and slowly raise the weight with your legs, toes pointed straight.",
+      "3Pause at the apex of the motion, then slowly return to starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Belt Squat",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-belt-squat-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-belt-squat-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Put the belt around your waist and hook the end of the belt onto the machines.",
+      "2Stand up to disengage the holding mechanism. Hold the arms while you squat.",
+      "3Once you've completed your set, reset the holding mechanism."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Standing Hamstring Curl",
+    "targetMuscles": [
+      "hamstrings"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-standing-hamstring-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-standing-hamstring-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Press yourself into the pads and put your calves against the lower pads.",
+      "2Flex your knee until you feel a contraction in your hamstring, then lower back to the start."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Overhead Tricep Extension",
+    "targetMuscles": [
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-overhead-tricep-extension-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-overhead-tricep-extension-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust the pad to suit your height.",
+      "2Grab the v bar (or other attachment) and extend your elbows until they are almost fully extended.",
+      "3Flex your elbows and look to feel a stretch at the bottom of each rep."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Plate Loaded Low Incline Bench Press",
+    "targetMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-low-incline-bench-press-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-low-incline-bench-press-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust the seat pad to match your height.",
+      "2Press the weight forward until your elbows are nearly extended. Return to the starting position with out letting the weight rest at the bottom until finishing your set."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Plate Loaded Decline Chest Press",
+    "targetMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-decline-chest-press-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-decline-chest-press-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust the seat pad to match your height.",
+      "2Press the weight forward until your elbows are nearly extended. Return to the starting position with out letting the weight rest at the bottom until finishing your set."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Plate Loaded Kneeling Hamstring Curl",
+    "targetMuscles": [
+      "hamstrings"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-kneeling-hamstring-curl-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-kneeling-hamstring-curl-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lay down on the machine, placing your working leg beneath the padded lever. Position your leg so that the padded lever is below your calve muscle.",
+      "2Support yourself by grabbing the side handles of the machine, and slowly raise the weight with your legs.",
+      "3Pause at the apex of the motion, then slowly return to starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Seated Hamstring Curl",
+    "targetMuscles": [
+      "hamstrings"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-seated-hamstring-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-seated-hamstring-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust the back pad and ankle pad to suit your height.",
+      "2Disengage the knee pad and lower it as far as you can.",
+      "3Flex your knees against resistance, then extend until you feel a stretch in your hamstrings."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Chest Press",
+    "targetMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-chest-press-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-chest-press-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit on the machine and grab the handles with an overhand grip.",
+      "2Adjust the machine to get the longest range of motion possible.",
+      "3Press until your elbows are not extended but not hyperextended."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Neutral Row",
+    "targetMuscles": [
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-neutral-row-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-neutral-row-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit on the machine, feet flat, and grab the handles with palms facing each other, keeping your back straight.",
+      "2Pull handles towards your lower abdomen, squeezing your shoulder blades together. Keep elbows close to your body.",
+      "3Slowly return to the starting position, fully extending your arms without locking elbows. Repeat for desired reps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Underhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Plate Loaded Incline Chest Press",
+    "targetMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-incline-chest-press-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-incline-chest-press-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust the seat pad to match your height.",
+      "2Press the weight forward until your elbows are nearly extended. Return to the starting position with out letting the weight rest at the bottom until finishing your set."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Assisted Parallel Bar Dips",
+    "targetMuscles": [
+      "front-shoulders",
+      "chest",
+      "shoulders",
+      "triceps",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-assisted-parralel-bar-dips-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-assisted-parralel-bar-dips-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Grip bars with arms straight, shoulders above hands. Place knees on pad.",
+      "2Lower slowly until elbows are at 90 degrees.",
+      "3Push back up to start position, extending arms fully."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Sissy Squat",
+    "targetMuscles": [
+      "quads"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-sissy-squat-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-sissy-squat-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place the sissy squat pad just behind the knees and the front pad all the way up against your ankles.",
+      "2Hold a dumbbell in a goblet position.",
+      "3Sit straight back into a squat. Then push your calves into the back of the pad and extend your knees back to the original position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Dips",
+    "targetMuscles": [
+      "front-shoulders",
+      "chest",
+      "shoulders",
+      "triceps",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-dips-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-dips-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit on the machine and grab the handles.",
+      "2Press the handles down until your elbows are nearly extended."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Goblet Sissy Squat",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-goblet-sissy-squat-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-goblet-sissy-squat-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place the sissy squat pad just behind the knees and the front pad all the way up against your ankles.",
+      "2Hold a dumbbell in a goblet position.",
+      "3Sit straight back into a squat. Then push your calves into the back of the pad and extend your knees back to the original position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Leg Extension",
+    "targetMuscles": [
+      "quads"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-leg-extension-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-leg-extension-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit on the machine with your back against the cushion and adjust the machine you are using so that your knees are at a 90 degree angle at the starting position.",
+      "2Raise the weight by extending your knees outward, then lower your leg to the starting position. Both movements should be done in a slow, controlled motion."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Tricep Pushdown",
+    "targetMuscles": [
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-tricep-pushdown-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-tricep-pushdown-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit on the machine and place the back of your upper arm on the bench.",
+      "2Extend your elbows until you feel a contraction in your triceps.",
+      "3Bring the weight back to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Standing Shrug",
+    "targetMuscles": [
+      "traps",
+      "traps-middle"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-standing-shrug-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-standing-shrug-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Grab both handles and stand upright. Make sure you keep a flat back while lifting to the starting position.",
+      "2Pull your shoulder blades straight up toward the ceiling."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Smith Machine Standing Shrugs",
+    "targetMuscles": [
+      "traps",
+      "traps-middle"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-standing-smith-machine-shrugs-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place the bar on a lower rung so that when gripped your arms are fully extended and your back is straight.",
+      "2Grip at shoulder width, raise the bar with your shoulders and pause at the contracted position.",
+      "3Slowly lower the bar back to starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Seated Shrug",
+    "targetMuscles": [
+      "traps",
+      "traps-middle"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-seated-shrug-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-seated-shrug-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Have a seat on the machine, and grab each handle.",
+      "2Pull your shoulder blades straight up toward the ceiling."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Cable V Bar Push Downs",
+    "targetMuscles": [
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-cable-push-downs-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-cable-push-downs-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Grip the pulley bar with palms facing down at shoulder width.",
+      "2Stand straight with a small forward incline. Keep your upper arms close to your body, and slowly bring the pulley bar down until your arms are fully extended.",
+      "3Pause when you are at the contracted position of the motion, then slowly raise the pulley bar back to the starting point."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Plate Loaded Leg Extension",
+    "targetMuscles": [
+      "quads"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-leg-extension-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-plate-loaded-leg-extension-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit on the machine with your back against the cushion and adjust the machine you are using so that your knees are at a 90 degree angle at the starting position.",
+      "2Raise the weight by extending your knees outward, then lower your leg to the starting position. Both movements should be done in a slow, controlled motion."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Pulldown",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-pulldown-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-machine-pulldown-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Grip the bar with the palms facing forward, your hands need to be spaced out at a distance wider than shoulder width.",
+      "2As you have both arms extended in front of you holding the bar, bring your torso back around 30 degrees while sticking your chest out.",
+      "3Pull the bar down to about chin level or a little lower in a smooth movement whilst squeezing the shoulder blades together.",
+      "4After a second of squeezing, slowly raise the bar back to the starting position when your arms are fully extended."
+    ],
+    "detailedInstruction": [
+      "How To Perform The Pulldown",
+      "Setup",
+      "First, adjust the thigh pad to a position that works well with your height. You should be able to put your legs under the thigh pad fully, but it should be low enough to keep you glued to the chair.",
+      "There are several grips you can use on a pull down.  In our demo video, we are doing a wide grip overhand pull down, so these instructions will be for that variation in particular.",
+      "Take an overhand grip just outside the part of the bar that bends downward. You can either use a thumbed or thumbless grip.",
+      "Hold on tight to the weight and sit straight down throwing your legs underneath the thigh pad. ",
+      "Performing",
+      "Before you start the rep, make sure your elbows are in a fully extended position. Your ears should be between your biceps. As you initiate the pull, lean back slightly. Imagine you are trying to pull your elbows in toward your rib cage, and not just downward. The bar should land between your collarbone and nipple line. ",
+      "Once you have tapped your chest begin the eccentric. Control the weight on the way back up. The rep will end with your elbows returning to their fully extended position.",
+      "Be careful about cheating on this exercise. It is very easy (and very common) to use momentum on this exercise. If you are using some body English and jerking the weight to get it from point A to point B and the weight is too heavy. Try going lighter and controlling during both the concentric and eccentric."
+    ],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Hip Adduction",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-hip-adduction-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-hip-adduction-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit in the machine with your legs apart, pads against your outer thighs. Adjust the seat and pad position comfortably.",
+      "2Slowly squeeze your legs together, focusing on using your inner thigh muscles. Pause when the pads are close together.",
+      "3Slowly return to the starting position, maintaining control. Avoid letting the weights slam. Repeat for desired reps and sets."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Overhand Overhead Press",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-overhand-overhead-press-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-overhand-overhead-press-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust the seat to match your height.",
+      "2Press your back into the back pad.",
+      "3Press upwards until your elbows are nearly extended. But not fully extended.",
+      "4Lower until the plates nearly touch back down."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Pec Fly",
+    "targetMuscles": [
+      "chest"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-pec-fly-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-pec-fly-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust seat height so handles align with chest. Sit and grip handles with elbows slightly bent.",
+      "2Slowly bring handles together in front, keeping tension. Focus on squeezing chest muscles.",
+      "3Return handles to starting position with controlled motion. Keep chest up throughout. Repeat for reps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Neutral Overhead Press",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-neutral-overhead-press-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-neutral-overhead-press-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust the seat to match your height.",
+      "2Press your back into the back pad.",
+      "3Press upwards until your elbows are nearly extended. But not fully extended.",
+      "4Lower until the plates nearly touch back down."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Bent Arm Pec Fly",
+    "targetMuscles": [
+      "chest"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-bent-arm-pec-fly-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-bent-arm-pec-fly-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Adjust seat height so handles align with chest. Put your elbows on the pads.",
+      "2Slowly bring pads together in front, keeping tension. Focus on squeezing chest muscles.",
+      "3Return pads to starting position with controlled motion. Keep chest up throughout. Repeat for reps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Plate Loaded Front Military Press",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-front-military-press-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-front-military-press-front.mp4"
+    ],
+    "exerciseInstructions": [],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Standing Lateral Raise",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-standing-lateral-raise-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-standing-lateral-raise-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Grab the two handles and raise the arms straight out to your sides."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Machine Hip And Glute Adduction",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-hip-and-glute-adduction-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-hip-and-glute-adduction-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand on the platform and set the pad just over the hip of the working leg.",
+      "2Place the working leg over the pad.",
+      "3Press your leg inward. Aim to get the longest range of motion possible."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Machine"
+  },
+  {
+    "exerciseName": "Neutral Chest Press",
+    "targetMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-neutral-chest-press-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-neutral-chest-press-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit on the machine and grab the handles with a neutral grip.",
+      "2Adjust the machine to get the longest range of motion possible.",
+      "3Press until your elbows are not extended but not hyperextended."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Machine"
+  }
+]

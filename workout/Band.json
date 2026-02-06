@@ -1,0 +1,1386 @@
+[
+  {
+    "exerciseName": "Band Bayesian Curl",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-bayesian-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-bayesian-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Attach band to a low anchor point. Point your palms straight forward.",
+      "2Flex your elbow until you feel your biceps contract. Then fully extend elbows."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Bayesian Hammer Curl",
+    "targetMuscles": [
+      "forearms",
+      "biceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-bayesian-hammer-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-bayesian-hammer-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Attach band to a low anchor point. Use a neutral grip.",
+      "2Flex your elbow until you feel your biceps contract. Then fully extend elbows."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Kneeling Single Arm Pulldown",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-kneeling-single-arm-pulldown-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-kneeling-single-arm-pulldown-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place the band at about eye level. Fall into a kneeling position.",
+      "2The knee that is on the ground should be the same side as the working arm. Stick your chest out.",
+      "3And then pull your elbow straight back. Flex your lats and then extend into the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Row",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-row-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-row-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand on your band with both feet.",
+      "2Hinge forward at the hips while keeping a flat back.",
+      "3Let your arms hang freely, then pull your elbows straight back toward the ceiling."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Bayesian Reverse Curl",
+    "targetMuscles": [
+      "forearms",
+      "biceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-bayesian-reverse-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-bayesian-reverse-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Attach band to a low anchor point. . Point your palms toward your thighs.",
+      "2Flex your elbow until you feel your biceps contract. Then fully extend elbows."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band High Curl",
+    "targetMuscles": [
+      "biceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-high-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-high-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Anchor a band to a high point.",
+      "2Start with your feet staggered and your elbows high.",
+      "3Flex your elbows while keeping your arms high. Curl the band to your forehead."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Underhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band High Reverse Curl",
+    "targetMuscles": [
+      "forearms",
+      "biceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-high-reverse-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-high-reverse-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start with a band attached to a high point, your feet staggered, and an overhand grip.",
+      "2Flex your elbows pulling your forearms to your biceps. Your fists should land by your forehead."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Curl",
+    "targetMuscles": [
+      "biceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-curl-front_1YwVVEx.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-curl-side_qegXZDv.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with your feet shoulder-width apart, with the band under both feet.",
+      "2Grasp the handles of the band with both hands, keeping your arms straight and extended in front of you.",
+      "3Keep your back straight, abs engaged, and shoulders relaxed as you curl your hands towards your shoulders, bending at the elbows."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Underhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Reverse Curl",
+    "targetMuscles": [
+      "forearms",
+      "biceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-reverse-curl-front_iQSuy66.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-reverse-curl-side_Cez320W.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start by standing on the center of the band with both feet, shoulder-width apart.",
+      "2Hold the band with both hands, palms facing down, arms extended straight in front of you.",
+      "3Slowly curl your hands towards your shoulders, pulling the band tight, then lower your arms back to the starting position, keeping tension on the band throughout the exercise."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band High Hammer Curl",
+    "targetMuscles": [
+      "biceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-high-hammer-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-high-hammer-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start with the band anchored to something high with your feet staggered and a neutral grip.",
+      "2Keep your elbows high. Curl until your fists are at your forehead."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Horizontal Shrug",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-horizontal-shrug-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-horizontal-shrug-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Anchor the band at shoulder height. Take a few steps away until the band is taut.",
+      "2Retract your shoulder blades straight back in schools. Then protract to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Single Arm Row",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-single-arm-row-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-single-arm-row-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Anchor band to a stable point.",
+      "2Step back until there is no slack in the band and hold the end of the band with one hand.",
+      "3Pull through the elbow straight back."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Single Arm Pulldown",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-single-arm-pulldown-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-single-arm-pulldown-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Anchor the band to a high point. Go into a seated position.",
+      "2Grab the loop of the band and pull your upper arm to your side."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Squat Hold Single Arm Row",
+    "targetMuscles": [
+      "quads",
+      "biceps",
+      "glutes",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-squat-hold-single-arm-row-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-squat-hold-single-arm-row-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Anchor the band to a stable point and take a half squat position.",
+      "2Hold the band loop in one hand and pull your elbow straight back."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Pull Apart",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-pull-apart-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-pull-apart-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Grab the band with a shoulder width grip. Point your arms straight in front of you.",
+      "2Retract your shoulder blades and shoulder joint until the band taps your chest."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Rear Delt Fly",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-rear-delt-fly-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-rear-delt-fly-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start by standing between the two anchored bands with your feet shoulder-width apart and the bands positioned at a high point.",
+      "2Grasp the ends of each band with your hands, keeping your palms facing each other.",
+      "3Keeping your arms slightly bent and your back straight, slowly pull the bands away from your body until your arms are extended straight out to the sides. Hold for a second, then slowly release back to the starting position. Repeat for desired reps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Good Morning",
+    "targetMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-good-morning-front_8qJRfbm.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-good-morning-side_pGmFQtq.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Anchor the band at hip level. Take a few steps away until the band is taut.",
+      "2Push your hips back while keeping your back flat until you feel a stretch in your hamstrings."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Crunch",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-crunch-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-crunch-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place the band at the highest anchor point you have available. Grab both ends of the band and fall into a kneeling position.",
+      "2Push your hips back flexing at the spine.",
+      "3Squeeze your abs and then extend at the hips and spine back to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Pullthrough",
+    "targetMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-pullthrough-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-pullthrough-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Anchor the band to the lowest point possible. Straddle the band and then grab with both hands.",
+      "2Take a few steps away until the band is taut.",
+      "3Push your butt back until you feel a stretch in your hamstrings. Then extend the hips back into the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Calf Raise",
+    "targetMuscles": [
+      "calves"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-calf-raise-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-calf-raise-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Attach band to a low anchor point.",
+      "2Take a few steps away until the band is taut.",
+      "3Lean back slightly. Raise your heels straight up and down"
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band High Face Pull",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-face-pull-front_Rw6dM9Q.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-face-pull-side_SluSCw4.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start with a band anchored to a high point. Stagger your stance.",
+      "2Pull the band to the bridge of your nose."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Romanian Deadlift",
+    "targetMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-romanian-deadlift-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-romanian-deadlift-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand on your band with both feet.",
+      "2Hinge forward at the hips while keeping a flat back.",
+      "3Hinge until you feel a stretch in your hamstrings.",
+      "4Push your hips back forward until you are in a standing position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Spanish Squat",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-spanish-squat-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-spanish-squat-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Anchor a band to a stable point.",
+      "2Place the loops of the band behind your knees.",
+      "3Perform a normal squat and extend your knees against the band at the top."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Push",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Glute Kickback",
+    "targetMuscles": [
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-glute-kickback-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-glute-kickback-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Get into a quadruped position. Loop the band around both of your wrists and one of your feet.",
+      "2Extend your knee and hip straight back until you feel like contraction in the glutes.",
+      "3Flex at the knee until back in the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Hip Abduction",
+    "targetMuscles": [
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-hip-abduction-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-hip-abduction-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Attach the band around your ankle. Stand with feet hip-width apart, feet facing forward, and hands on hips.",
+      "2Lift your right leg away from your body to the side, keeping your knee straight. This is your starting position.",
+      "3Maintaining proper form, move your right leg as far to the side as you can, keeping your left leg planted firmly on the ground. Hold for a second and then return your right leg to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Leg Press",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-leg-press-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-leg-press-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lay flat on the ground with your head by the anchor point of the band, which should be 6 to 12 inches above your head",
+      "2Place the band around your midfoot and extend at the knees and hip."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Squat",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-squat-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-squat-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with a shoulder width grip. Both feet should be on the band with the band loops in each of your hand.",
+      "2Push your butt back and also break at the knees.",
+      "3Try to hit parallel depth (bottom of your leg should be parallel with the ground). If you can't tell your squat depth, then try squatting in front of a mirror and watch your form."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Banded Side Walks",
+    "targetMuscles": [
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Recovery-side-walks-resisted-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Recovery-side-walks-resisted-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place a band either just below or above your knees.",
+      "2Get into a quarter squat position.",
+      "3Step side to side without letting there be any slack in the band to keep tension on the band."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Hip Adduction",
+    "targetMuscles": [
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-hip-adduction-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-hip-adduction-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Attach a band to a stable anchor point, such as a door handle or post.",
+      "2Stand with feet shoulder-width apart and place the band around your ankles.",
+      "3Keeping your feet together, move your legs out to the sides and then back to the midline of your body. Repeat for the desired number of repetitions."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Face Pull",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-face-pull-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-face-pull-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Anchor the band at eye level. Take a few steps away until the band is taut.",
+      "2Use an overhand grip with both hands. Pull the band to the bridge of your nose flaring your elbows out."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Pullover",
+    "targetMuscles": [
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-pullover-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-pullover-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place the band just above our level. Take a few steps away until the band is taut.",
+      "2Push your hips back slightly. Extend and flex at the shoulder joint."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Leg Curl",
+    "targetMuscles": [
+      "hamstrings"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-leg-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-leg-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Loop the band around a sturdy anchor point such as a weightlifting rack or a door handle.",
+      "2Lie on your back with your heels placed inside the band. Make sure the band is centered under your heels and your feet are hip-width apart.",
+      "3Using your hamstrings, curl your heels towards your glutes while keeping your hips on the ground."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Single Arm Overhead Press",
+    "targetMuscles": [
+      "front-shoulders",
+      "traps",
+      "shoulders",
+      "triceps",
+      "traps-middle",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-single-arm-overhead-press-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-single-arm-overhead-press-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Loop the band under one of your feet. The other end of the bed should be in your hand between your thumb and pointer finger.",
+      "2Press the band straight up towards the ceiling. Until your elbow is fully extended."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Mid Lateral Raise",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-mid-lateral-raise-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-mid-lateral-raise-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Anchor a band to a point that is the same height as your fist when your arms are at your side and stand with the band crossing your body.",
+      "2While keeping your elbow mostly extended, lift your arm until it's parallel with the floor."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Low Lateral Raise",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-low-lateral-raise-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-low-lateral-raise-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Anchor a band to a low point and stand with the band crossing your body.",
+      "2While keeping your elbow mostly extended, lift your arm until it's parallel with the floor."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Skullcrusher",
+    "targetMuscles": [
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-skullcrusher-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-skullcrusher-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Anchor a band to a stable point.",
+      "2Face away and begin with your elbows bent and fists by your temples.",
+      "3Extend your elbows until your triceps contract."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Push",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Single Arm Pushdown",
+    "targetMuscles": [
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-single-arm-pushdown-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-single-arm-pushdown-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with your feet shoulder-width apart and hold the band with your right hand, with your arm at your side.",
+      "2Flex and extend your elbow."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Rapunzel Pushdown",
+    "targetMuscles": [
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-rapunzel-pushdown-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-rapunzel-pushdown-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Anchor the band to a high point and face away. Hold the band with both hands, placing your hands shoulder-width apart and keeping your elbows close to your body.",
+      "2Slowly extend your arms downward, keeping your elbows close to your body. Push the band down as far as you can, feeling the contraction in your triceps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Calf Raise",
+    "targetMuscles": [
+      "calves"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-calf-raise-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-calf-raise-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Attach band to a low anchor point.",
+      "2Take a few steps away until the band is taut.",
+      "3Lean back slightly. Raise your heels straight up and down"
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Pushdown",
+    "targetMuscles": [
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-pushdown-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-pushdown-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place the band just above eye level. Take a few steps away until the band is taut.",
+      "2Push your hips back slightly. Extend and flex at the elbows."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Overhead Tricep Extension",
+    "targetMuscles": [
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-overhead-tricep-extension-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-overhead-tricep-extension-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with one or both feet on band. Go up and over your head with the band to the starting position.",
+      "2Flex and extend your elbows."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Push",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Overhead Press",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "triceps",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-overhead-press-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-overhead-press-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand between the two anchored bands, grasp them with an overhand grip, and position the bands at shoulder level.",
+      "2Brace your core and push the bands overhead, fully extending your arms.",
+      "3Lower the bands back to shoulder level, keeping your core engaged and arms straight. Repeat for desired number of reps."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Single Arm Chest Press",
+    "targetMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-chest-press-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-chest-press-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Attach the band to an anchor point that is about shoulder height. Take a few steps away until the band is taut.",
+      "2Extend your shoulder joint and elbow across your body until your arm is fully extended."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Upright Row",
+    "targetMuscles": [
+      "front-shoulders",
+      "traps",
+      "shoulders",
+      "traps-middle",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-upright-row-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-upright-row-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with one or both feet on one end of a band. Take a double overhand roughly shoulder width grip.",
+      "2Pull your elbows straight up the ceiling. Aim to get the band to chin level or slightly higher."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Pushup",
+    "targetMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-pushup-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-pushup-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Loop the band around your mid-back. The ends of the bands should be around your hands between your thumb and pointer finger.",
+      "2This exercise can be done from the knees or the toes depending on experience level.",
+      "3Begin by breaking at the elbows until your upper arm is by your side. Then extend at the elbows back into the top position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Chest Press",
+    "targetMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-chest-press-front_XYmSX4f.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-chest-press-side_vYKZsWt.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand in the middle of the two bands with feet shoulder-width apart. Step forward with one foot to create tension in the bands.",
+      "2Hold one band in each hand, palms facing forward.\r\n\r\nStart the exercise with your arms extended in front of you, keeping a slight bend in your elbows.",
+      "3Lower your arms to the sides of your chest, maintaining control of the band.",
+      "4Push your arms back up to the starting position, keeping your core engaged and maintaining control of the band."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Single Arm Rapunzel Pushdown",
+    "targetMuscles": [
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-single-arm-rapunzel-pushdown-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-single-arm-rapunzel-pushdown-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with a band anchored to a high point. Face away from the band. Hold the loop in one hand.",
+      "2Keep your elbow tucked in to your side. Extend your elbow. When you extend, don't let your upper arm raise. The band should land over your shoulder."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Standing Chest Press",
+    "targetMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-standing-chest-press-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-standing-chest-press-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Loop the band around your back. The two end loops in each of your hands.",
+      "2Extend your shoulder joint and elbow across your body until your arm is fully extended."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Single Arm Skullcrusher",
+    "targetMuscles": [
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-single-arm-skullcrusher-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-single-arm-skullcrusher-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand facing away from a band which is anchored to a high point.",
+      "2Keep your elbow pointed forward, and extend and flex your elbow."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Goblet Squat",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-goblet-squat-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-goblet-squat-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand with a shoulder width grip. Both feet should be on the band with the band looped over both hands.",
+      "2Push your butt back and also break at the knees.",
+      "3Try to hit parallel depth (bottom of your leg should be parallel with the ground). If you can't tell your squat depth, then try squatting in front of a mirror and watch your form."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Leg Extension",
+    "targetMuscles": [
+      "quads"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-leg-extension-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-leg-extension-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Anchor a band to something stable and set up a bench.",
+      "2Run through the band underneath the bench and loop around your feet.",
+      "3Flex and extend your knees."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Tricep Kickback",
+    "targetMuscles": [
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-tricep-kickback-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-tricep-kickback-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Anchor the band to a stable point.",
+      "2Hinge forward. Extend and flex at the elbow."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Shrug",
+    "targetMuscles": [
+      "traps",
+      "traps-middle"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-shrug-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-shrug-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place the band under your feet. Stand upright.",
+      "2Elevate your shoulder blades and then depress back to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Lateral Raise",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-lateral-raise-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-lateral-raise-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Grab the band at shoulder width. Raise your arms straight out to the side.",
+      "2The band should scrape against your shirt."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Squat Hold Row",
+    "targetMuscles": [
+      "quads",
+      "biceps",
+      "glutes",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-squat-hold-row-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-squat-hold-row-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Anchor the band to a stable point.",
+      "2Take a half squat position and hold there.",
+      "3Perform a row while holding the squat position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Pull",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Single Arm Pec Fly",
+    "targetMuscles": [
+      "chest"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-chest-fly-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-chest-fly-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Attach the band to an anchor point that is about shoulder height. Take a few steps away until the band is taut.",
+      "2Extend your shoulder joint and bring your arm across your body until you feel a contraction in your pecs."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Wood Chopper",
+    "targetMuscles": [
+      "obliques"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-wood-chopper-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-wood-chopper-side.mp4"
+    ],
+    "exerciseInstructions": [],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Pull",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Pallof Press",
+    "targetMuscles": [
+      "obliques"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-pallof-press-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-pallof-press-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place the band at an anchor point that is shoulder height. Take a few steps away until the band is taut.",
+      "2Start with your fingers interlocked around the band and your fists connected to your chest.",
+      "3Extend at the elbows pressing the band away from your body until your elbows are fully extended."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Internally Rotated Chest Fly",
+    "targetMuscles": [
+      "chest"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-internally-rotated-chest-fly-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-internally-rotated-chest-fly-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start with both feet hip-width apart and step on the middle of the band with both feet. Hold the handles of the band in each hand and position the band above your chest, with your palms facing down.",
+      "2Keeping your elbows slightly bent, slowly raise your arms out to the sides until they are parallel with the floor. Make sure to internally rotate your shoulder joints by bringing your shoulder blades together and rotating your forearms inward towards your torso.",
+      "3Hold the position for a few seconds and then slowly lower your arms back to the starting position, keeping the internal rotation of your shoulder joints throughout the movement."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Chest Fly",
+    "targetMuscles": [
+      "chest"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-chest-fly-front_EjlOhyB.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-band-chest-fly-side_aZavtpI.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Secure two resistance bands to a sturdy anchor point (e.g. a door anchor, a post, etc.) at chest height.",
+      "2Stand facing away from the anchor point with feet shoulder-width apart and hold each end of the band in each hand.",
+      "3Start with arms fully extended and parallel to the floor.",
+      "4Keeping arms straight, slowly bring your arms together in front of your chest."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  },
+  {
+    "exerciseName": "Band Front Raise",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-front-raise-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Band-band-front-raise-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand on the band with one or 2 feet depending on how heavy you want the band to be.",
+      "2With your elbows extended raise your fists straight up to the ceiling until they are at eye level."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Band"
+  }
+]

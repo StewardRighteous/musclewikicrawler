@@ -1,0 +1,598 @@
+[
+  {
+    "exerciseName": "Vitruvian Hammer Curl",
+    "targetMuscles": [
+      "biceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-hammer-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-hammer-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold a neutral grip.",
+      "2Flex your elbows until your forearms touch your biceps.",
+      "3Extend your elbows fully to finish each rep."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Single Arm Row",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-single-arm-row-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-single-arm-row-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Take a staggered stance and hinge forward.",
+      "2Grab one of the handle attachments and pull your elbow toward the ceiling."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Bosu Ball Row",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-row-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-row-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold bosu and hinge forward.",
+      "2Pull bosu towards chest, squeezing shoulder blades."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Medicine Ball Single Leg Deadlift",
+    "targetMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Medicine-Ball-single-leg-deadlift-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Medicine-Ball-single-leg-deadlift-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold medicine ball while standing on one leg.",
+      "2Hinge forward on one leg, extending other leg behind.",
+      "3Return to starting position. Repeat on other leg."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Romanian Deadlift",
+    "targetMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-romanian-deadlift-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-romanian-deadlift-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Take an overhand grip.",
+      "2Keep your knees mostly extended and hinge forward at the hips.",
+      "3Keep a flat back."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Overhand, Mixed",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Staggered Deadlift",
+    "targetMuscles": [
+      "hamstrings",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-staggered-deadlift-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-staggered-deadlift-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place one foot firmly on the ground and one foot behind the other. Bend the knee on your back leg.",
+      "2Hinge forward until you feel a stretch in your front leg."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Crunch",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-crunch-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-crunch-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold the rope attachment and lay flat.",
+      "2Flex your spine and curl your upper back off the ground."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Seated Calf Raise",
+    "targetMuscles": [
+      "calves"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-seated-calf-raise-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-seated-calf-raise-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit on the bench with the bar attachment over your legs.",
+      "2Raise your heels up to the ceiling."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Standing Calf Raise",
+    "targetMuscles": [
+      "calves"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-standing-calf-raise-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-standing-calf-raise-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold the two handles and stand tall.",
+      "2Raise your heels as high as possible."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Belt Squat",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-belt-squat-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-belt-squat-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Set up the Vitruvian, including a the provided belt.",
+      "2Position yourself with feet shoulder-width apart on the Vitruvian",
+      "3Perform the squat by bending at the knees and hips, lowering your body until thighs are parallel to the ground.",
+      "4Return to the starting position by extending your knees and hips, pushing through your feet."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Deficit Lunge",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-deficit-lunge-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-deficit-lunge-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand tall with both feet on the platform.",
+      "2Step backwards and bring your back knee to the floor."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Figure Four Hip Thrust",
+    "targetMuscles": [
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-figure-four-hip-thrust-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-figure-four-hip-thrust-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Wear the belt attachment.",
+      "2Cross one leg over the other, and then press your hips toward the ceiling."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Front Squat",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-front-squat-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-front-squat-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Use the bar attachment.",
+      "2Place the bar over your front delts and cross your arms.",
+      "3Push your hips back and aim to hit parallel depth."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Hip Thrust",
+    "targetMuscles": [
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-hip-thrust-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-hip-thrust-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Put your back on the bench.",
+      "2Place the bar or belt over your hips.",
+      "3Flex and extend your hips fully on each rep."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Arnold Press",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "triceps",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-arnold-press-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-arnold-press-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand tall with your palms facing yourself.",
+      "2As you press, rotate your arms."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Rotating",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Lateral Raise",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-lateral-raise-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-lateral-raise-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand tall with a neutral grip.",
+      "2Raise your arms to the side and keep your elbows mostly extended."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Shrug",
+    "targetMuscles": [
+      "traps",
+      "traps-middle"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-shrug-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-shrug-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand tall and hold the two handle attachments.",
+      "2Pull your shoulder blades straight up toward the ceiling."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Bench Press",
+    "targetMuscles": [
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-bench-press-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-bench-press-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lay on the flat bench.",
+      "2Tuck your elbows slightly, press the handles toward the ceiling."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Kneeling Wood Chopper",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-kneeling-wood-chopper-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-kneeling-wood-chopper-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold the attachment with both hands and take a kneeling position.",
+      "2Rotate across your body."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Pec Fly",
+    "targetMuscles": [
+      "chest"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-pec-fly-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-pec-fly-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lay flat on the bench.",
+      "2Keep your elbows mostly extended and lower your arms toward the floor."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Side Bend",
+    "targetMuscles": [
+      "obliques"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-side-bend-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-side-bend-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold one of the handle attachments.",
+      "2Stand upright, lean to the opposing side of the cable."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Hammer Curl",
+    "targetMuscles": [
+      "biceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-hammer-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-hammer-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold a neutral grip.",
+      "2Flex your elbows until your forearms touch your biceps.",
+      "3Extend your elbows fully to finish each rep."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Rear Delt Fly",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-rear-delt-fly-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-rear-delt-fly-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Grab the two handles and hinge forward.",
+      "2Keep your elbows mostly extended and raise your arms straight out to the side."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Push Up",
+    "targetMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-push-up-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-push-up-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Use the belt attachment. Take a pushup position.",
+      "2Have your elbows at a 45 degree angle. Break at the elbows until your upper arm gets to your side.",
+      "3And then push up."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Overhead Press",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-overhead-press-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-overhead-press-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold the handle attachments with your fists to the sky and elbows toward the floor.",
+      "2Press the handles to the ceiling."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Vitruvian"
+  },
+  {
+    "exerciseName": "Vitruvian Windmill",
+    "targetMuscles": [
+      "obliques"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-windmill-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Vitruvian-windmill-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold the attachment in one hand and raise your arm over head.",
+      "2Turn one foot outward and one foot forward.",
+      "3Lean to the side while reaching for your foot."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Overhand, Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Vitruvian"
+  }
+]

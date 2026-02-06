@@ -1,0 +1,742 @@
+[
+  {
+    "exerciseName": "TRX Curl",
+    "targetMuscles": [
+      "biceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold the TRX straps with an underhand grip and lean back and away from the anchor point.",
+      "2Keep your elbows high as you flex your elbows. Pull your fists toward your forehead."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Underhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Reverse Curl",
+    "targetMuscles": [
+      "forearms",
+      "biceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-reverse-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-reverse-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand facing the TRX straps and grasp the handles with both hands, palms facing away from your body.",
+      "2Walk back until the straps are taut, keeping your arms straight.",
+      "3Slowly curl your hands towards your shoulders, keeping your elbows close to your body."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Hammer Curl",
+    "targetMuscles": [
+      "biceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-hammer-curl-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-hammer-curl-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Grab the TRX straps and lean away from the anchor point.",
+      "2Maintain a neutral grip. Flex your elbows and pull your fists to either sides of your temples."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Rotating Row",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-rotating-row-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-rotating-row-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Grab the TRX straps and lean away from the anchor point until the strap is taut.",
+      "2Start with an overhand grip. Pull your elbows back and rotate your grip.",
+      "3By the time your elbows reach your side, your palms should be facing upwards."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Rotating",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Single Arm row",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-single-arm-row-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-single-arm-row-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold the TRX strap with one hand.",
+      "2Lean back until the strap is taut. Fully extend your elbow.",
+      "3Pull your elbow behind the body. Make sure to avoid twisting. Try to keep your shoulders even."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Rear Delt Fly",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-rear-delt_fly-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-rear-delt_fly-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand facing away from the TRX straps and grab the handles with both hands.",
+      "2Step forward so that your body is in a plank position, with your arms straight and your body in a straight line from your head to your heels.",
+      "3Keeping your arms straight, slowly lift your arms out to the side, keeping them at the same height as your shoulders. Your body should form a \"T\" shape."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Overhand, Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX W Raise",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-W-raise-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-W-raise-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold the TRX straps and lean away from the anchor point.",
+      "2Pull your elbows back while externally rotating your shoulder joint. Your arms should make a W shape at the back portion of the exercise."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Ab Rollout",
+    "targetMuscles": [
+      "abdominals",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-ab-rollout-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-ab-rollout-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Grasp the TRX handles with both hands, keeping your arms extended and your shoulders away from your ears.",
+      "2Keep your abs engaged, roll forward onto your toes, and extend your arms in front of you.",
+      "3Slowly lower your body down to the ground, keeping your arms straight and your abs engaged.",
+      "4When your head gets between your arms, pause for a moment and then use your abs to pull your body back up to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Rear Delt Row",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-rear-delt-row-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-rear-delt-row-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand facing away from the TRX straps and grab the handles with both hands.",
+      "2Step away so your body is leaning away from the anchor point.",
+      "3Flex your elbows and pull your elbows straight back behind your body.",
+      "4Make sure to keep your elbows flared outward."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Forearm Plank",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-forearm-plank-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-forearm-plank-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lie face down on the ground and place your forearms on the ground directly under your shoulders.",
+      "2With your feet in the stirrups, kick both feet into the TRX straps and hold the handles above your head.",
+      "3Tighten your abs, glutes, and legs to form a straight line from your head to your feet."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Hold",
+      "Grips": "Neutral, None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Hand Plank",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-hand-plank-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-hand-plank-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start by facing away from the TRX straps and placing your feet in the TRX handles with your palms on the ground.",
+      "2Lift your knees off the ground to begin the set.",
+      "3Engage your core and maintain this position for the desired amount of time, holding a steady plank."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Hold",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Kneeling Ab Rollout",
+    "targetMuscles": [
+      "abdominals",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-kneeling-body-saw-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-kneeling-body-saw-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Begin in a kneeling position with the TRX straps adjusted to mid-calf length.",
+      "2Grasp the TRX handles with both hands, keeping your arms extended and your shoulders away from your ears.",
+      "3Keep your abs engaged, roll forward onto your toes, and extend your arms in front of you.",
+      "4Slowly lower your body down to the ground, keeping your arms straight and your abs engaged."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Knee Tuck",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-knee-tuck-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-knee-tuck-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place your feet in the TRX stirrups and get in to a hand plank position.",
+      "2Pull your knees to your chest and flex your abs."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Curtsy Lunge",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-curtsy-lunge-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-curtsy-lunge-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand facing away from the anchor point, holding onto the TRX handles with both hands.",
+      "2Step your left foot behind your right, crossing it behind your right leg, and lower yourself into a curtsy lunge.",
+      "3Push through your right foot to return to the starting position and repeat the movement with the other leg."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Overhand, Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Glute Bridge",
+    "targetMuscles": [
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-glute-bridge-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-glute-bridge-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lie on your back with your feet in the foot cradles of the TRX straps, with your knees bent and feet flat on the ground.",
+      "2Place your arms by your sides with your palms facing down.",
+      "3Drive your hips up towards the ceiling, squeezing your glutes and hamstrings at the top of the movement."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Mountain Climber",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-mountain-climber-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-mountain-climber-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start in a plank position with the TRX straps adjusted to mid-calf length. Place your feet in the TRX stirrups.",
+      "2Keep your abs engaged, and bring one knee towards your chest while keeping the other leg extended behind you.",
+      "3Switch legs, bringing the opposite knee towards your chest while keeping your abs engaged and your back straight."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Calf Raise",
+    "targetMuscles": [
+      "calves"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-calf-raise-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-calf-raise-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold the TRX straps under your arms and the handles in your armpits.",
+      "2Lean forward against the straps.",
+      "3Keep your body straight and initiate the calf raise by raising your heels off the ground."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Pike",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-pike-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-pike-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place your feet in the stirrups and get in to a plank position.",
+      "2Pull your hips straight up toward the ceiling.",
+      "3Lower your hips until you're back in a plank position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Lateral Lunge",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-lateral-lunge-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-lateral-lunge-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Grasp the TRX handles with both hands and extend your arms straight in front of you.",
+      "2Step laterally to one side, keeping your arms extended and your core engaged.",
+      "3Lower your body into a lunge position, keeping your front knee bent at a 90-degree angle and your back leg straight.",
+      "4Push off your front foot to return to the starting position, keeping your arms extended and your core engaged."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Overhand, Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Reverse Lunge",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-reverse-lunge-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-reverse-lunge-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold on to the TRX straps and step away until the strap is taut.",
+      "2Step backwards with one leg in to a lunge position and gently tap your knee to the floor.",
+      "3Lunge back to the starting position and repeat with the other leg."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Overhand, Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Jumping Squat",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-jump-squat-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-jump-squat-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand facing the TRX straps and place your feet shoulder-width apart.",
+      "2Begin by lowering into a squat position by bending at the knees and hips, keeping your back straight and chest up.",
+      "3Explosively jump up off the ground, using your arms for momentum if desired.",
+      "4Land softly back in the squat position, making sure to absorb the impact with your legs."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Overhand, Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Squat",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-squat-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-squat-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold the two TRX straps and lean away from the anchor point.",
+      "2Flex at the hips and knees in to a squat position.",
+      "3You can use your arms and the straps to assist you back into the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Overhand, Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Split Squat",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-split-squat-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-split-squat-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold the two TRX straps and step away until the straps are taut. Take a split stance.",
+      "2Bring your back knee to the floor and gently tap the floor.",
+      "3Use your arms and the TRX to help assist you getting back into the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "Overhand, Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Y Raise",
+    "targetMuscles": [
+      "front-shoulders",
+      "traps",
+      "shoulders",
+      "traps-middle",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-y-raise-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-y-raise-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold the TRX straps and lean away from the anchor point until the straps are taut.",
+      "2Keep both elbows mostly extended and raise both arms out and upwards.",
+      "3You should make a Y shape with your arms during the back portion of the exercise."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Pushup",
+    "targetMuscles": [
+      "front-shoulders",
+      "chest",
+      "shoulders",
+      "triceps",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-pushup-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-pushup-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start by setting up the TRX straps to a secure anchor point and adjust the straps so that they hang about waist height when you stand under them.",
+      "2Stand facing the TRX straps, grab the handles with both hands, and step forward so that your body is in a plank position with your hands directly beneath your shoulders.",
+      "3Lower your body down by bending your elbows until your chest nearly touches the handles. Keep your core tight and your body in a straight line.",
+      "4Push your body back up to the starting position, straightening your arms as you do so. Make sure to engage your chest, triceps, and core throughout the movement."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX I Raise",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-I-raise-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-I-raise-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand facing the TRX straps and hold onto the handles with an overhand grip, keeping your arms straight and hands slightly wider than shoulder-width apart.",
+      "2Keeping your core engaged, slowly raise your arms forward until they are overhead.",
+      "3Pause for a moment at the top of the movement, then slowly lower your arms back to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Hamstring Curl",
+    "targetMuscles": [
+      "hamstrings"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-hamstring-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-hamstring-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start by facing the TRX straps and positioning yourself in a push-up position with your hands on the ground and your feet in the TRX foot cradles.",
+      "2Keeping your core engaged and body in a straight line, bend your knees and bring your heels towards your glutes.",
+      "3Pause for a moment at the top of the movement, then slowly lower your legs back to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Forearm Side Plank",
+    "targetMuscles": [
+      "obliques"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-forearm-side-plank-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-forearm-side-plank-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lie on your side with your legs straight and your feet resting in the TRX foot cradles.",
+      "2Prop yourself up on your forearm and engage your core to maintain a straight line from your head to your feet."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Hold",
+      "Grips": "Neutral, None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Skullcrusher",
+    "targetMuscles": [
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-skullcrusher-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-skullcrusher-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold the two TRX straps and lean forward. The straps should be over each shoulder.",
+      "2Keep your elbows tucked in and then flex and extend at the elbows."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Overhand",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Oblique Crunch",
+    "targetMuscles": [
+      "obliques"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-oblique-crunch-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-oblique-crunch-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place your feet in the TRX stirrups and get in to a hand plank position.",
+      "2Pull both knees to your right elbow.",
+      "3Extend your legs back to the starting position, then pull both knees to the left elbow."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Pull",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "TRX"
+  },
+  {
+    "exerciseName": "TRX Pec Fly",
+    "targetMuscles": [
+      "chest"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-chest-fly-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-trx-chest-fly-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start by adjusting the TRX straps to chest height. Stand facing the TRX with your feet shoulder-width apart.",
+      "2Grasp the TRX handles with both hands, keeping your arms extended and your shoulders away from your ears.",
+      "3Lean forward, keeping your arms extended and your core engaged. Your body should form a slight diagonal line from your ankles to your head.",
+      "4Slowly bring your arms towards each other, in front of your chest, while keeping your core engaged and your body in a stable position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "TRX"
+  }
+]

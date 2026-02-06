@@ -1,0 +1,714 @@
+[
+  {
+    "exerciseName": "Bosu Ball Row",
+    "targetMuscles": [
+      "biceps",
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-row-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-row-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold bosu and hinge forward.",
+      "2Pull bosu towards chest, squeezing shoulder blades."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Curl",
+    "targetMuscles": [
+      "biceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-curl-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-curl-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold the bosu vertically.",
+      "2Flex your elbows curling the bosu toward your chin."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Forearm Plank",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-forearm-plank-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-forearm-plank-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place forearms on Bosu, elbows under shoulders.",
+      "2Extend legs, keeping body straight.",
+      "3Hold the plank position, engaging core."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Hold",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Single Leg Hip Thrust",
+    "targetMuscles": [
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-single-leg-hip-thrust-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-single-leg-hip-thrust-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit on Bosu, lean back, one foot on the floor.",
+      "2Drive hips upward, squeezing glutes, one leg extended.",
+      "3Lower hips back down and switch legs."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Superman",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-superman-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-superman-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lie face down on Bosu, arms extended.",
+      "2Lift arms, chest, and legs off the Bosu.",
+      "3Hold for a moment, then lower back down."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Hand Plank",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-hand-plank-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-hand-plank-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place hands on Bosu, shoulder-width apart.",
+      "2Extend legs, keeping body straight.",
+      "3Hold the plank position, engaging core."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Hold",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Plank Glute Kickback",
+    "targetMuscles": [
+      "abdominals",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-plank-glute-kickback-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-plank-glute-kickback-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start in a plank position with Bosu under feet.",
+      "2Lift one leg back, squeezing glutes.",
+      "3Lower the leg back down and switch sides."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Situp",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-situp-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-situp-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lie on back, bosu elevated toward the ceiling.",
+      "2Sit up, engaging core muscles.",
+      "3Lower back down to complete one situp."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Toe Tap",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bodyweight-toe-tap-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bodyweight-toe-tap-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand in front of a low box.",
+      "2Bring one foot to the edge of the box and alternate as quickly as possible.",
+      "3Only lightly tap your feet to the box."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Up And Over",
+    "targetMuscles": [
+      "abdominals"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-up-and-over-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-up-and-over-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand next to Bosu, step up and over it.",
+      "2Repeat, moving laterally side to side.",
+      "3Keep a steady pace, engaging core muscles."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Walkover Pushup",
+    "targetMuscles": [
+      "abdominals",
+      "chest",
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-walkover-pushup-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-walkover-pushup-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place both hands on Bosu, wider than shoulder-width.",
+      "2Perform a pushup, then walk hands to the other side.",
+      "3Perform another pushup, repeat back and forth."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Calf Raise",
+    "targetMuscles": [
+      "calves"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-ball-calf-raise-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-ball-calf-raise-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand on Bosu with feet hip-width apart.",
+      "2Rise up on toes, squeezing calves.",
+      "3Lower heels back down to complete one rep."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Burpee",
+    "targetMuscles": [
+      "quads",
+      "chest",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-burpee-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-burpee-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand on Bosu with feet shoulder-width apart.",
+      "2Drop into squat position and place hands on Bosu.",
+      "3Jump feet back into plank, perform a pushup, then jump back to squat."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Feet Elevated Glute Bridge",
+    "targetMuscles": [
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-feet-elevated-glute-bridge-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-feet-elevated-glute-bridge-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lie on back, place feet on Bosu, knees bent.",
+      "2Lift hips and squeeze glutes.",
+      "3Lower hips back down to complete one rep."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Half Burpee",
+    "targetMuscles": [
+      "quads",
+      "chest",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-half-burpee-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-half-burpee-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand on Bosu with feet shoulder-width apart.",
+      "2Drop into squat position and place hands on Bosu.",
+      "3Jump feet back to plank, then jump back to squat."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Hip Thrust",
+    "targetMuscles": [
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-hip-thrust-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-hip-thrust-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Sit on Bosu, lean back, hands on the floor.",
+      "2Drive hips upward, squeezing glutes.",
+      "3Lower hips back down to complete one rep."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Lateral Lunge",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-lateral-lunge-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-lateral-lunge-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand on Bosu, step sideways into a lunge.",
+      "2Bend knee, keeping the other leg straight.",
+      "3Push off the bent leg, return to starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Medicine Ball Reverse Lunge",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Medicine-Ball-reverse-lunge-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Medicine-Ball-reverse-lunge-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold medicine ball at chest.",
+      "2Step back into lunge position.",
+      "3Return to starting position. Repeat on other leg."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Single Leg Elevated Glute Bridge",
+    "targetMuscles": [
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-single-leg-elevated-glute-bridge-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-single-leg-elevated-glute-bridge-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lie on back, place one foot on Bosu, knee bent.",
+      "2Lift hips, squeezing glutes, one leg extended.",
+      "3Lower hips back down and switch legs."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Split Squat",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-bodyweight-split-squat-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-bodyweight-split-squat-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Take a split stance. Make sure to keep your chest tall.",
+      "2Bring your rear knee to the floor or close to it.",
+      "3Drive through your front heel and your rear foot back to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Squat",
+    "targetMuscles": [
+      "quads",
+      "glutes"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-squat-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-squat-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Stand on Bosu, feet shoulder-width apart.",
+      "2Squat down, keeping knees aligned with toes.",
+      "3Push through heels to stand back up."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Novice",
+      "Force": "Push",
+      "Grips": "None",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Hand Sideplank Hip Abduction",
+    "targetMuscles": [
+      "obliques"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-hand-sideplank-hip-abduction-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-hand-sideplank-hip-abduction-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Start in a side plank with hand on Bosu.",
+      "2Lift the top leg while keeping the body stable.",
+      "3Lower the leg back down."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Advanced",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Pullover",
+    "targetMuscles": [
+      "lats"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-pullover-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-pullover-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lie on ground with head and shoulders supported.",
+      "2Hold a bosu and lower it back over the head.",
+      "3Bring the bosu back over the chest to complete one rep."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Pull",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Pike Pushup",
+    "targetMuscles": [
+      "front-shoulders",
+      "shoulders",
+      "triceps",
+      "rear-shoulders"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-pike-pushup-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-pike-pushup-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place feet on Bosu, hips high, hands on the floor.",
+      "2Lower the head towards the ground, then push back up.",
+      "3Keep legs straight and hips elevated throughout."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Front Raise",
+    "targetMuscles": [],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-front-raise-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-front-raise-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold the bosu vertically.",
+      "2Raise the bosu toward the ceiling while keeping your elbows mostly extended."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Offset Pushup",
+    "targetMuscles": [
+      "chest",
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-offset-pushup-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-offset-pushup-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place one hand on Bosu, other on the floor.",
+      "2Lower chest to the ground, keeping the body straight.",
+      "3Push back up to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Overhand, Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Pushup",
+    "targetMuscles": [
+      "abdominals",
+      "chest",
+      "triceps"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-pushup-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-pushup-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place hands on Bosu, shoulder-width apart.",
+      "2Lower chest to the ground, keeping the body straight.",
+      "3Push back up to the starting position."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Pike Shrug",
+    "targetMuscles": [
+      "traps",
+      "traps-middle"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-pike-shrug-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-pike-shrug-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place toes on Bosu, hands on the floor.",
+      "2Pike hips up, shrug shoulders, engage core."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Grips": "Neutral",
+      "Mechanic": "Isolation"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Forearm Sideplank",
+    "targetMuscles": [
+      "obliques"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-forearm-sideplank-front.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-forearm-sideplank-side.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Lie on one side, forearm on Bosu, elbow under shoulder.",
+      "2Lift hips to create a side plank.",
+      "3Hold the side plank position, then switch sides."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Hold",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Bosu Ball Hand Sideplank",
+    "targetMuscles": [
+      "obliques"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-hand-sideplank-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Bosu-Ball-hand-sideplank-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Place hand on Bosu, arm straight, facing sideways.",
+      "2Stack feet and lift hips to side plank.",
+      "3Hold the side plank position, then switch sides."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Intermediate",
+      "Force": "Hold",
+      "Grips": "Neutral",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  },
+  {
+    "exerciseName": "Medicine Ball Wood Chopper",
+    "targetMuscles": [
+      "obliques"
+    ],
+    "exerciseVideos": [
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Medicine-Ball-wood-chopper-side.mp4",
+      "https://media.musclewiki.com/media/uploads/videos/branded/male-Medicine-Ball-wood-chopper-front.mp4"
+    ],
+    "exerciseInstructions": [
+      "1Hold medicine ball with both hands and arms extended.",
+      "2Swing ball diagonally across body, engaging core."
+    ],
+    "detailedInstruction": [],
+    "moreDetails": {
+      "Difficulty": "Beginner",
+      "Force": "Push",
+      "Mechanic": "Compound"
+    },
+    "equipmentNeeded": "Bosu-Ball"
+  }
+]
