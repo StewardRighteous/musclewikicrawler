@@ -1,9 +1,20 @@
-# Getting started with Crawlee
+# Muscle Wiki Crawler
 
-This example uses `PlaywrightCrawler` to recursively crawl https://crawlee.dev using the browser automation library [Playwright](https://playwright.dev).
+A web scraper that gets the workout details for exercise data from Muscle Wiki Website
 
-You can find more examples and documentation at the following links:
+## Tools Used
 
-- [Step-by-step tutorial](https://crawlee.dev/js/docs/introduction) for Crawlee
-- `PlaywrightCrawler` [API documentation](https://crawlee.dev/js/api/playwright-crawler/class/PlaywrightCrawler)
-- Other [examples](https://crawlee.dev/js/docs/examples/playwright-crawler)
+JavaScript, Crawlee
+
+## Data
+
+- Exercise Name
+- Target Muscles
+- Exercise videos
+- Exercise Instructions
+- detailed Instructions
+- more details
+  - Difficulty
+  - Force
+  - Mechanic
+- Equipment needed   
